@@ -18,13 +18,13 @@ This Python script automates sending messages to a specified WhatsApp group/user
 ## Installation
 - Download the `whatsapp-automated-message-sender.py`
 - Edit as you want the code
-- and run with python
+- Run with python
 
 ## Quick Start with .bat File
 You can create a `.bat` file to quickly launch the script. Here’s how:
 
 1. Open Notepad (or any text editor).
-2. Write the following line in the file, replacing `path\to\your\script.py` with the actual path to your Python script:
+2. Write the "python `path\to\your\script.py`" save as a .bat file
 3. Then copy and paste .bat file "C:\Users\Username\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup" here
 
 ## Trubleshooting
