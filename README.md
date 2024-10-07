@@ -31,6 +31,6 @@ You can create a `.bat` file to quickly launch the script. Here’s how:
 ¯\\_( ͡° ͜ʖ ͡°)_/¯
 
 ## Contact me
-[Personal Website](https:\\enesehs.github.io)
+[Personal Website](https://enesehs.github.io)
 
 
